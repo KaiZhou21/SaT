@@ -2,4 +2,10 @@
 
 Semantic-aware Transformer for Shadow Detection
 
-SaT mainly includes: (1) model code, and (2) two semantic label sets: Sem-ISTD and Sem-SBU. 
+by Kai Zhou, Wen Wu, Yan-Li Shao, Jing-Long Fang, Xing-Qi Wang, Dan Wei
+
+SaT mainly includes: 
+
+(1) model code, and 
+
+(2) two semantic label sets: Sem-ISTD and Sem-SBU. 
